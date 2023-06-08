@@ -1,3 +1,6 @@
-# References
+a = 1
+b = 2
 
-* octocat 1 😈
+c = a + b
+
+print(c)
